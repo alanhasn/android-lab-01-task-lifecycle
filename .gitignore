@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.class
+
+# Logs
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase / Secrets
+google-services.json
+secrets.properties
